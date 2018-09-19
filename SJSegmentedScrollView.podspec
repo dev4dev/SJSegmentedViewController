@@ -12,4 +12,5 @@ spec.source                 = { :git => 'https://github.com/subinspathilettu/SJS
 spec.source_files           = 'SJSegmentedScrollView/Classes/*.{swift}'
 spec.social_media_url       = 'https://twitter.com/subinsjose'
 spec.framework              = "UIKit"
+spec.swift_version          = "4.1"
 end
